@@ -27,7 +27,7 @@ Each lesson includes:
 - **Media (images / video links):** [05-media/](05-media/)
 
 ## Featured demo (for reviewers)
-- **Session 07 — Notebooks:** [03-notebooks/session-07/](03-notebooks/session-07/)
+- **Session 07 — Notebooks:** [03-notebooks/session-07.ipynb](03-notebooks/session-07.ipynb)
   - Includes guided analysis templates and reproducible workflows.
 
 ## How to run notebooks (local)
