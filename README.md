@@ -42,5 +42,5 @@ Each lesson includes:
 - Notebooks and datasets were designed to be reusable and easily adapted.
 
 ## License
-- **Code (notebooks/scripts):** MIT (recommended)
-- **Instructional materials (PDF/slides/worksheets):** CC BY 4.0 (recommended)
+- **Code (notebooks/scripts):** MIT
+- **Instructional materials (PDF/slides/worksheets):** CC BY 4.0
